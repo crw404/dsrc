@@ -414,3 +414,9 @@ object/building/player/player_house_jabbas_sail_barge.iff	object/building/player
 																													
 object/building/player/player_house_tree_house_02.iff	object/building/player/construction/construction_player_house_tree_house_02.iff			3	32								13	3	4320	1700	1					4							
 																							object/tangible/terminal/terminal_player_structure_nosnap.iff	8.8	1.1	1.73	entry	-91	
+object/building/player/player_vigo_house.iff	object/building/player/construction/construction_player_vigo_house.iff			1									13	5	7200	2500	1					5							
+																							object/tangible/terminal/terminal_player_structure.iff	-4.109	5.87	0.753	r14	180	
+																							object/tangible/terminal/terminal_elevator_up.iff	3	4.739	-28.484	r9	90	
+																							object/tangible/terminal/terminal_elevator_up.iff	1.439	10.073	-21.709	r2	180	
+																							object/tangible/terminal/terminal_elevator_down.iff	3	10.073	-28.484	r9	90	
+																							object/tangible/terminal/terminal_elevator_down.iff	1.439	15.085	-21.709	r2	180	
