@@ -420,3 +420,5 @@ object/building/player/player_vigo_house.iff	object/building/player/construction
 																							object/tangible/terminal/terminal_elevator_up.iff	1.439	10.073	-21.709	r2	180	
 																							object/tangible/terminal/terminal_elevator_down.iff	3	10.073	-28.484	r9	90	
 																							object/tangible/terminal/terminal_elevator_down.iff	1.439	15.085	-21.709	r2	180	
+object/building/player/player_tato_house_canopy_sml_s01.iff	object/building/player/construction/construction_player_tato_house_canopy_sml_s01.iff			0									4	3	4320	800	1					4							
+																							object/tangible/terminal/terminal_player_structure.iff	3.79	1.06	6.02	foyer	180	
